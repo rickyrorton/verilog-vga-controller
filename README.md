@@ -17,3 +17,10 @@ This Verilog module implements a VGA (Video Graphics Array) controller that gene
 
 ## Timing data for horizontal and vertical
 ![image](https://github.com/rickyrorton/verilog-vga-controller/assets/74890659/b8fca43f-f791-429c-b8da-cb1aa851c0b8)
+
+## Simulation results
+### H_SYNC signal
+![image](https://github.com/rickyrorton/verilog-vga-controller/assets/74890659/78b6b4a4-5d29-4190-a4c8-98e89b3dda29)
+
+### V_SYNC signal
+![image](https://github.com/rickyrorton/verilog-vga-controller/assets/74890659/1e8f828e-ea3d-4978-b6c9-2ca886fa40b2)
